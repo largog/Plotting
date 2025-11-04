@@ -1,7 +1,7 @@
 # Plotting
 Scripts used for viral ecology analysis
 
-##Description
+## Description
 This scripts are used to generate graphical summaries of viral communities,
 the input data are custom abundance tables and metadata.  
 
